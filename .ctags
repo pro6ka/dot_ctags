@@ -12,6 +12,7 @@
 --exclude=db
 --exclude=*.html
 --exclude=*.sql
+--exclude=*.css
 
 --tag-relative=yes
 --langmap=php:+.inc
