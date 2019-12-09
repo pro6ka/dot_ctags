@@ -3,6 +3,7 @@
 
 --exclude=log
 --exclude=vendor
+--exclude=bitrix
 --exclude=tmp
 --exclude=build
 --exclude=publish
